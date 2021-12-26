@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy
 
 ScreenLight Halo collects no data.
 
